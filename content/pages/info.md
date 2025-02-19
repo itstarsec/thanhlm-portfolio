@@ -240,7 +240,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [safevuln@gmail.com](mailto:thisismyemail.@myemail.me)
+      [safevuln@gmail.com](mailto:safevuln@gmail.com)
   - type: DividerSection
     styles:
       self:
