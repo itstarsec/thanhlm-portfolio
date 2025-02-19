@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: ' Implementing IT Infrastructure and Managed Service'
 colors: colors-a
-date: '0002-12-20'
+date: '2019-12-20'
 client: Capella Holdings
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
