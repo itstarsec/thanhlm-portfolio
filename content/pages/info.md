@@ -22,7 +22,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/gallery-1.jpg
+      url: /images/MTM00128.jpg
       altText: Hero image
     styles:
       self:
