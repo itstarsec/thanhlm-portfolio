@@ -143,7 +143,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/safevuln'
         styles:
           self:
             textAlign: left
