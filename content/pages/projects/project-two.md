@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ' Implementing IT Infrastructure and Managed Service'
+title: Implementing IT Infrastructure and Managed Service
 colors: colors-a
 date: '2019-12-20'
 client: Capella Holdings
