@@ -224,7 +224,7 @@ sections:
       - type: Label
         label: Bug Hunter
       - type: Label
-        label: Swift
+        label: Presales Consultant
   - type: DividerSection
     styles:
       self:
