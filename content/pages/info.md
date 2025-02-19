@@ -21,7 +21,7 @@ sections:
       infrastructure optimization, and the development of security solutions.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/gallery-1.jpg
       altText: Hero image
     styles:
       self:
