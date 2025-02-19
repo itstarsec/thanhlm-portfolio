@@ -214,7 +214,7 @@ sections:
       - type: Label
         label: DevOps Engineer
       - type: Label
-        label: Microsoft Office
+        label: Front-end Developers
       - type: Label
         label: Next.js
       - type: Label
