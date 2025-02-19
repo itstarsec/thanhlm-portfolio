@@ -212,7 +212,7 @@ sections:
       - type: Label
         label: Mastering Splunk Queries
       - type: Label
-        label: React
+        label: DevOps Engineer
       - type: Label
         label: Microsoft Office
       - type: Label
