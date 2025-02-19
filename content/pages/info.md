@@ -65,14 +65,14 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
+        url: /images/vab.png
+        altText: Logo two
+        caption: Logo two
+      - type: ImageBlock
         url: /images/fpt.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
-      - type: ImageBlock
-        url: /images/vab.png
-        altText: Logo two
-        caption: Logo two
       - type: ImageBlock
         url: /images/masan.png
         altText: Logo three
