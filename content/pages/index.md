@@ -14,9 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Tôi là một kỹ sư hệ thống chuyên nghiệp với kinh nghiệm thực tiễn trong
-      thiết kế hệ thống, tư vấn giải pháp, triển khai và vận hành các hệ thống
-      lớn.
+      I'm a professional systems engineer with practical experience in system
+      design, solution consulting, deployment, and operation of large systems.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
