@@ -216,7 +216,7 @@ sections:
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Fullstack Developers
+        label: Fullstack Developer
       - type: Label
         label: Software Engineer
       - type: Label
