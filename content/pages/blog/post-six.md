@@ -102,12 +102,18 @@ bottomSections:
       text:
         textAlign: left
 ---
-Built strategic relationships with banks through successful consultation and implementation of SOC and Pentest
-solutions, enhancing security for banking systems:
-- Optimizing the performance of the SOC system by building and implementing monitoring processes, event
-detection, and incident response through Splunk, thereby improving the effectiveness of responses to
-cybersecurity incidents.
-- Achieving high customer satisfaction through successful SOC and POC solutions, helping businesses enhance
-security and maintain continuous operations.
-- Developing the capability to respond quickly and effectively to threats by establishing thorough scanning and
-investigation processes, ensuring the safety of the information technology infrastructure.
+When managing a Security Operations Center (SoC) project, it's essential to develop a structured approach that maximizes efficiency and effectiveness. Here are key steps and achievements from my experience in successfully organizing and implementing SoC solutions:
+
+1.  **Build Strategic Relationships**
+    Establishing strong partnerships with banks has been crucial. Through successful consultations and implementations of SOC and Pentest solutions, we have enhanced the security of banking systems and built trust with stakeholders.
+
+2.  **Optimize Performance with Monitoring Processes**
+    A critical aspect of a SoC project is the optimization of its performance. By building and implementing effective monitoring processes, event detection, and incident response via Splunk, we significantly improved our capacity to respond to cybersecurity incidents swiftly and effectively.
+
+3.  **Focus on Customer Satisfaction**
+    High levels of customer satisfaction are achieved by delivering successful SOC and Proof of Concept (POC) solutions. These initiatives not only help businesses enhance their security posture but also ensure they can maintain continuous operations without disruption.
+
+4.  **Establish Thorough Threat Response Processes**
+    Developing a robust capability to respond to threats is vital. By establishing detailed scanning and investigation processes, we ensure the safety of the information technology infrastructure and create an agile environment where threats can be addressed promptly.
+
+By following these steps and focusing on these key areas, anyone can effectively structure and organize a successful SoC project that enhances security and operational efficiency.
