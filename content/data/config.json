@@ -81,7 +81,7 @@
             "phoneAltText": "My phone number",
             "email": "safevuln@gmail.com",
             "emailAltText": "My email",
-            "address": "211, 9A Street, ",
+            "address": "211 9A Street, Trung Son Residential Area, Binh Chanh, Ho Chi Minh City, Vietnam.",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
