@@ -222,7 +222,7 @@ sections:
       - type: Label
         label: Python Developer
       - type: Label
-        label: C++
+        label: Bug Hunter
       - type: Label
         label: Swift
   - type: DividerSection
