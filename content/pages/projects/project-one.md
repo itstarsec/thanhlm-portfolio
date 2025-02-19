@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: FPT Happy Club
 colors: colors-a
-date: '2021-10-15'
+date: '0002-10-15'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
