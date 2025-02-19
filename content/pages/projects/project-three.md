@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Masan Consumer Corporation
+title: Managing Security Service
 colors: colors-a
 date: '2022-01-22'
 client: Masan Consumer Corporation
