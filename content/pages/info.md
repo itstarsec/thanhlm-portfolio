@@ -218,7 +218,7 @@ sections:
       - type: Label
         label: Front-end Developers
       - type: Label
-        label: Netlify
+        label: Software Engineer
       - type: Label
         label: Pancakes
       - type: Label
