@@ -13,12 +13,13 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >
-      ## Throughout my over eight-year career in the IT industry, I have had the
-      opportunity to take on various roles in the field of security, from
+    text: >+
+      ## *Throughout my over eight-year career in the IT industry, I have had
+      the opportunity to take on various roles in the field of security, from
       consulting to implementation and operation. These experiences have
       provided me with deep and comprehensive insights into system management,
-      infrastructure optimization, and the development of security solutions.
+      infrastructure optimization, and the development of security solutions.*
+
     media:
       type: ImageBlock
       url: /images/gallery-1.jpg
