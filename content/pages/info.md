@@ -300,18 +300,25 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **2015-2019**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   Students study Computer Networks and Communications at Gia Dinh
+          University – GDU @giadinh.edu.vn
 
-          * react certificate somewhere
 
-          **2011**
+          **2017**
 
-          * my highschool
+
+          *   CEH
+
+
+          **2018**
+
+
+          *   CompTIA Security+
+
         styles:
           self:
             textAlign: left
