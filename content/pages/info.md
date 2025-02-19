@@ -82,7 +82,7 @@ sections:
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/AAcorp.png
+        url: /images/miraway.png
         altText: Logo five
         caption: Logo five
     spacing: 3
