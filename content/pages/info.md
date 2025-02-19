@@ -220,7 +220,7 @@ sections:
       - type: Label
         label: Software Engineer
       - type: Label
-        label: Pancakes
+        label: 'Docker, Container & K8s'
       - type: Label
         label: C++
       - type: Label
