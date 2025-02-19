@@ -5,9 +5,9 @@ colors: colors-a
 date: '2023-10-15'
 client: FPT Group
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  It's amazing to see how the FPT Happy Club loyalty service came together,
+  thanks to our collaborative team. Everyone played a crucial role in shaping
+  this initiative!
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
