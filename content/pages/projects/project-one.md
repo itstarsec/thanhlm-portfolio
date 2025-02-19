@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: FPT Happy Club
+title: 'FPT Happy Club - Loyalty service operating '
 colors: colors-a
 date: '2023-10-15'
 client: FPT Group
