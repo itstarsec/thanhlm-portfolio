@@ -21,6 +21,7 @@ media:
   caption: Caption of the image
   elementId: ''
   type: ImageBlock
+  url: /images/whoami.jpg
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
