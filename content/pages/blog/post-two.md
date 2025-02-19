@@ -17,7 +17,6 @@ featuredImage:
   url: /images/featured-Image2.jpg
   altText: Post thumbnail image
 media:
-  url: /images/whoami.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
