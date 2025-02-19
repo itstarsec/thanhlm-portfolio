@@ -159,7 +159,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://discord.gg/u4Gkfh8d'
         styles:
           self:
             textAlign: left
