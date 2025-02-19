@@ -258,26 +258,38 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: >
           **Current**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   Presale Manager at Miraway @miraway.vn
 
-          * fullstack at this startup
+
+          **2023-2024**
+
+
+          *   FPT Loyalty Service - SecDevOps at FPT Group - DC5 Strategic
+          Division @fpt.com
+
+
+          **2019-2023**
+
+
+          *   Security Excusive & Development at FPT Telecom International
+          @fpt-fti.com
+
+
+          **2017-2019**
+
+
+          *   Security Engineer at VietABank @vietabank.com.vn
+
 
           **2015**
 
-          * senior front-end at this place
 
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
+          *  Students study Computer Networks and Communications at Gia Dinh
+          University – GDU @giadinh.edu.vn
         styles:
           self:
             textAlign: left
