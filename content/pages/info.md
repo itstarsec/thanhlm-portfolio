@@ -13,11 +13,13 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Throughout my over eight-year career in the IT industry, I have had the
+      opportunity to take on various roles in the field of security, from
+      consulting to implementation and operation. These experiences have
+      provided me with deep and comprehensive insights into system management,
+      infrastructure optimization, and the development of security solutions.
+
     media:
       type: ImageBlock
       url: /images/about.jpg
