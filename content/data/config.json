@@ -81,7 +81,7 @@
             "phoneAltText": "My phone number",
             "email": "safevuln@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "211, 9A Street, ",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
