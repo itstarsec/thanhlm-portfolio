@@ -5,9 +5,9 @@ colors: colors-a
 date: '2019-12-20'
 client: Capella Holdings
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Implementing IT infrastructure and managed services involves meticulous
+  planning and collaboration, as each step taken enhances organizational
+  efficiency and drives digital transformation forward.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
