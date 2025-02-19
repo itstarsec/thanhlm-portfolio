@@ -210,7 +210,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: Splunk que
+        label: Mastering Splunk Queries
       - type: Label
         label: React
       - type: Label
