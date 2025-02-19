@@ -5,9 +5,9 @@ colors: colors-a
 date: '2022-01-22'
 client: Masan Consumer Corporation
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Managing security services effectively requires a dedicated team and
+  innovative strategies, as each member's expertise contributes to building a
+  robust defense against emerging threats.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
