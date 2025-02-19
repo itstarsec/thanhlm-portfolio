@@ -102,12 +102,28 @@ bottomSections:
       text:
         textAlign: left
 ---
-With over a decade of experience in vulnerability research and exploitation following Common Vulnerabilities and Exposures (CVE), I've honed my skills in analyzing and tackling newly published vulnerabilities. My daily routine involves meticulously monitoring updates on CVEs, allowing me to stay ahead in the rapidly evolving cybersecurity landscape.
+With over a **decade of experience** in vulnerability research and exploitation following Common Vulnerabilities and Exposures (CVE), I've honed my skills in analyzing and tackling newly published vulnerabilities. My daily routine involves meticulously monitoring updates on CVEs, allowing me to stay ahead in the rapidly evolving cybersecurity landscape.
 
-The process begins with identifying the latest CVEs that affect software products. Once a CVE is published, I recreate the exploitation environment using older, unpatched versions of the software. This pivotal step enables me to discern the differences between the patched and unpatched versions, unraveling the mechanics behind the vulnerability.
+### The Process
 
-Through this methodical analysis, I gain insights into how the vulnerability operates, laying the groundwork for the next phase—developing Proof of Concept (PoC) exploits. Writing exploit scripts for both 1-day and n-day vulnerabilities not only enhances my skills but also contributes to the wider security community by shedding light on potential risks and remediation strategies.
+1.  **Identifying New CVEs**
+    The process begins with identifying the latest CVEs that affect software products. Each day, I scan through multiple sources to find newly published vulnerabilities that require immediate attention.
 
-Sharing these Pwn-tools with the world is about fostering collaboration and knowledge exchange within the cybersecurity community. By providing detailed PoCs and insights derived from my research, I aim to empower other security professionals and developers to close security gaps, thereby enhancing the overall security posture of applications and systems.
+2.  **Recreating the Exploitation Environment**
+    Once a CVE is published, I recreate the exploitation environment using older, unpatched versions of the software. This pivotal step enables me to discern the differences between the patched and unpatched versions, unraveling the mechanics behind the vulnerability.
 
-In conclusion, my journey in vulnerability research is driven by a passion for discovery and a commitment to improving cybersecurity. By sharing my findings and tools, I hope to inspire others to take proactive steps in addressing vulnerabilities and cultivating a safer digital environment for us all.
+3.  **Developing Proof of Concept (PoC) Exploits**
+    Through this methodical analysis, I gain insights into how the vulnerability operates, laying the groundwork for the next phase—developing **Proof of Concept (PoC)** exploits. Writing exploit scripts for both **1-day** and **n-day** vulnerabilities not only enhances my skills but also contributes to the wider security community by shedding light on potential risks and remediation strategies.
+
+### Why Share Pwn-tools?
+
+Sharing these Pwn-tools with the world is about fostering **collaboration** and **knowledge exchange** within the cybersecurity community. By providing detailed PoCs and insights derived from my research, I aim to empower other security professionals and developers to close security gaps, thereby enhancing the overall security posture of applications and systems.
+
+### Conclusion
+
+In conclusion, my journey in vulnerability research is driven by a passion for discovery and a commitment to improving cybersecurity. By sharing my findings and tools, I hope to inspire others to take proactive steps in addressing vulnerabilities and cultivating a **safer digital environment** for us all.
+
+Let’s work together towards a more secure future! 💻🔒
+
+
+
