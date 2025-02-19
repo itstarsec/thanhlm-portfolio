@@ -1,11 +1,10 @@
 ---
 type: PostLayout
-title: Sharing my wisdom with the world 🌎
+title: "Sharing my Pwn-tools with the world \U0001F30E"
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
@@ -45,7 +44,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
@@ -103,33 +102,28 @@ bottomSections:
       text:
         textAlign: left
 ---
+With over a **decade of experience** in vulnerability research and exploitation following Common Vulnerabilities and Exposures (CVE), I've honed my skills in analyzing and tackling newly published vulnerabilities. My daily routine involves meticulously monitoring updates on CVEs, allowing me to stay ahead in the rapidly evolving cybersecurity landscape.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+### The Process
 
-## Heading 2
+1.  **Identifying New CVEs**
+    The process begins with identifying the latest CVEs that affect software products. Each day, I scan through multiple sources to find newly published vulnerabilities that require immediate attention.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+2.  **Recreating the Exploitation Environment**
+    Once a CVE is published, I recreate the exploitation environment using older, unpatched versions of the software. This pivotal step enables me to discern the differences between the patched and unpatched versions, unraveling the mechanics behind the vulnerability.
 
-### Heading 3
+3.  **Developing Proof of Concept (PoC) Exploits**
+    Through this methodical analysis, I gain insights into how the vulnerability operates, laying the groundwork for the next phase—developing **Proof of Concept (PoC)** exploits. Writing exploit scripts for both **1-day** and **n-day** vulnerabilities not only enhances my skills but also contributes to the wider security community by shedding light on potential risks and remediation strategies.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+### Why Share Pwn-tools?
 
-```javascript
-{
-  page.content && (
-    <Markdown
-      options={{ forceBlock: true, overrides: { pre: HighlightedPreBlock } }}
-      className="sb-markdown max-w-screen-md mx-auto"
-      data-sb-field-path="content"
-    >
-      {page.content}
-    </Markdown>
-  );
-}
-```
+Sharing these Pwn-tools with the world is about fostering **collaboration** and **knowledge exchange** within the cybersecurity community. By providing detailed PoCs and insights derived from my research, I aim to empower other security professionals and developers to close security gaps, thereby enhancing the overall security posture of applications and systems.
 
-In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+### Conclusion
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+In conclusion, my journey in vulnerability research is driven by a passion for discovery and a commitment to improving cybersecurity. By sharing my findings and tools, I hope to inspire others to take proactive steps in addressing vulnerabilities and cultivating a **safer digital environment** for us all.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Let’s work together towards a more secure future! 💻🔒
+
+
+
