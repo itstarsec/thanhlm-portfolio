@@ -17,8 +17,5 @@ media:
   url: /images/bg3.jpg
   altText: Project image
 ---
-* Managing the Web Security Gateway on the Cloud, Endpoint Protection, and Firewall to ensure the safety of the organization's IT infrastructure. Establishing security policies and protocols to prevent internet threats and protect the system from attacks.
-* Building and monitoring security processes, ensuring that all security-related events and activities are accurately tracked and recorded. Implementing optimal measures to enhance monitoring and incident detection capabilities.
-* Ensuring compliance with security and information protection regulations, conducting regular assessments to identify vulnerabilities and promptly rectify them to maintain compliance status, safeguarding sensitive data of the organization and its customers.
-* Providing technical support to relevant departments in deploying and operating security solutions, training users on effective security processes and tools.
-* Conducting continuous analysis and reporting on security status, identifying potential issues, and seizing improvement opportunities to enhance the organization's security level.
+
+
