@@ -62,7 +62,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these company:'
+    subtitle: 'Contributed to projects alongside well-known companies in the industry:'
     images:
       - type: ImageBlock
         url: /images/vab.png
