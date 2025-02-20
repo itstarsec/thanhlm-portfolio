@@ -153,10 +153,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.gg/u4Gkfh8d'
+        actions: []
         styles:
           self:
             textAlign: left
