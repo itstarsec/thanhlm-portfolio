@@ -326,13 +326,13 @@ sections:
           University – GDU @giadinh.edu.vn
 
 
-          **2017**
+          **2018**
 
 
           *   CEH
 
 
-          **2018**
+          **2019**
 
 
           *   CompTIA Security+
