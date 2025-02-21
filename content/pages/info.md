@@ -276,7 +276,7 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: >
+        text: >+
           **Current**
 
 
@@ -303,11 +303,11 @@ sections:
           *   Security Engineer at VietABank @vietabank.com.vn
 
 
-          **2015**
+          **2018**
 
 
-          *  Students study Computer Networks and Communications at Gia Dinh
-          University – GDU @giadinh.edu.vn
+          *   Ranked #1 in Vietnam on Hack The Box 
+
         styles:
           self:
             textAlign: left
