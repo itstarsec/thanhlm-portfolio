@@ -91,7 +91,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/AAcorp.png
+        url: /images/AAcorp-2.png
         altText: Logo AACorp
         caption: Caption of the image
         elementId: ''
