@@ -102,7 +102,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/HappyClub.png
-        altText: altText of the image
+        altText: HappyClub Logo
         caption: Caption of the image
         elementId: ''
     spacing: 3
