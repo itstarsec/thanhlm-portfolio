@@ -303,10 +303,11 @@ sections:
           *   Security Engineer at VietABank @vietabank.com.vn
 
 
-          **2018**
+          **2019-2020**
 
 
-          *   Ranked #1 in Vietnam on Hack The Box 
+          *   Ranked #1 in Vietnam on Hack The Box and Member of Cookie Han Hoan
+          Teams @https\://www\.hackthebox.com/badge/image/209320
 
         styles:
           self:
