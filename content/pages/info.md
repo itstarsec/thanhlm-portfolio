@@ -86,8 +86,7 @@ sections:
         altText: Logo five
         caption: Logo five
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/C06.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
