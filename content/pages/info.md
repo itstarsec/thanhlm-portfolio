@@ -87,7 +87,7 @@ sections:
         caption: Logo five
       - type: ImageBlock
         url: /images/C06.png
-        altText: altText of the image
+        altText: Logo BCA
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
