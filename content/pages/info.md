@@ -106,8 +106,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/DACTA.png
         altText: DACTA Logo
         caption: Caption of the image
         elementId: ''
